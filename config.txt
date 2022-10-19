@@ -15,7 +15,7 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "上海市",
 "birthday1": {"name": "赵梦瑶", "birthday": "r2000-10-03"},
-"birthday2": {"name": "李梦柯", "birthday": "r2000-12-23"},
+"birthday2": {"name": "李梦柯", "birthday": "r2001-12-23"},
 "birthday3": {"name": "高星", "birthday": "r2001-02-28"},
 "birthday4": {"name": "李梦娇", "birthday": "r2001-07-09"},
 "birthday5": {"name": "张文飞", "birthday": "r2001-10-11"},
